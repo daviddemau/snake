@@ -1,0 +1,20 @@
+html,body {
+  background-color: rgb(65, 65, 65);
+  font-family: monospace;
+  color: #ececec;
+  width: 95%;
+  height: 95%;
+}
+
+
+p span {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 10px;
+  color: rgb(92, 201, 71);
+}
+
+#canvas {
+  background-color: rgb(38, 120, 22);
+  border: 10px solid black;
+}
